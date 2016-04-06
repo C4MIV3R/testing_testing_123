@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learning mocha and chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSIcoh/testing_testing_123.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "newbie",
+    "newb"
+  ],
+  "author": "PSIcoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PSIcoh/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/PSIcoh/testing_testing_123#readme"
+}
